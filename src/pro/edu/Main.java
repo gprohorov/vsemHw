@@ -12,11 +12,11 @@ public class Main {
         System.out.println(" I was born on  " + birthday );
         // 2^32 = 2 000 000 000
         int salary = 100_000;
-        System.out.println(" I'd like to get " + salary + " a month");
+        System.out.println(" I'd like to get " + salary + " a month.");
 
         // long 2^64
         long population = 7_000_000_000l;
-        System.out.println("Global population is about " + population + " humans");
+        System.out.println("Global population is about " + population + " humans.");
 
         // float
         float height = 185.5f;
