@@ -17,7 +17,7 @@ public class Main {
         // long 2^64
         long population = 7_000_000_000l;
         System.out.println("Global population is about " + population + " humans.");
-
+         int a=1+6;
         // float
         float height = 185.5f;
         System.out.println(" My heght is " + height + "cms.");
